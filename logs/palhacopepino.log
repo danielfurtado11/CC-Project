@@ -1,0 +1,35 @@
+01:01:2023.22:36:45:464 EV conf-file-read palhacopepino.txt
+01:01:2023.22:36:45:465 EV log-file-create logs/palhacopepino.log
+01:01:2023.22:36:45:466 EV db-file-read dbs/palhacopepino.db
+01:01:2023.23:33:18:497 EV conf-file-read palhacopepino.txt
+01:01:2023.23:33:18:498 EV log-file-create logs/palhacopepino.log
+01:01:2023.23:33:18:499 EV db-file-read dbs/palhacopepino.db
+01:01:2023.23:36:13:307 EV conf-file-read palhacopepino.txt
+01:01:2023.23:36:13:308 EV log-file-create logs/palhacopepino.log
+01:01:2023.23:36:13:309 EV db-file-read dbs/palhacopepino.db
+01:01:2023.23:55:07:393 EV conf-file-read palhacopepino.txt
+01:01:2023.23:55:07:394 EV log-file-create logs/palhacopepino.log
+01:01:2023.23:55:07:395 EV db-file-read dbs/palhacopepino.db
+01:01:2023.23:56:28:955 QR 10.0.28.10:41641 43433,Q,0,0,0,0;www.palhaco.pepino.,A;
+01:01:2023.23:56:28:955 RE 10.0.28.10:41641 ['43433,A,0,2,3,3;', 'www.palhaco.pepino. A 193.136.130.80 86400 200,www.palhaco.pepino. A 193.136.130.81 86400 200;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400;']
+02:01:2023.14:54:53:972 QR 10.0.28.10:46244 63856,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.14:54:53:973 RE 10.0.28.10:46244 ['63856,A,0,2,3,3;', 'palhaco.pepino. MX mx1.palhaco.pepino 86400 10,palhaco.pepino. MX mx2.palhaco.pepino 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400;']
+02:01:2023.15:13:59:127 EV conf-file-read palhacopepino.txt
+02:01:2023.15:13:59:140 EV log-file-create logs/palhacopepino.log
+02:01:2023.15:13:59:141 EV db-file-read dbs/palhacopepino.db
+02:01:2023.15:14:02:285 QR 10.0.28.10:42471 34653,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:14:02:286 RE 10.0.28.10:42471 ['34653,A,0,2,3,3;', 'palhaco.pepino. MX mx1.palhaco.pepino 86400 10,palhaco.pepino. MX mx2.palhaco.pepino 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400;']
+19:01:2023.19:59:08:800 EV conf-file-read palhacopepino.txt
+19:01:2023.19:59:08:801 EV log-file-create logs/palhacopepino.log
+19:01:2023.19:59:08:802 EV db-file-read dbs/palhacopepino.db
+19:01:2023.20:00:01:147 QR 10.0.28.10:58859 4512,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:00:01:147 RE 10.0.28.10:58859 ['4512,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:05:36:452 QR 10.0.28.10:33041 28730,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:05:36:452 RE 10.0.28.10:33041 ['28730,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:06:08:602 QR 10.0.28.10:43552 30811,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:06:08:602 RE 10.0.28.10:43552 ['30811,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:34:24:815 EV conf-file-read palhacopepino.txt
+19:01:2023.20:34:24:816 EV log-file-create logs/palhacopepino.log
+19:01:2023.20:34:24:817 EV db-file-read dbs/palhacopepino.db
+19:01:2023.20:34:53:757 QR 10.0.28.10:37216 31725,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:34:53:757 RE 10.0.28.10:37216 ['31725,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']

@@ -1,0 +1,9 @@
+# Configuration file for primary server for guaxinim
+guaxinim DB dbs/guaxinim.db
+guaxinim SS 10.0.22.10
+guaxinim SS 10.0.8.12
+guaxinim DD 127.0.0.4
+guaxinim DD 123.1.1.1
+guaxinim LG logs/guaxinim.log
+all LG logs/all.log
+root ST rootservers.db

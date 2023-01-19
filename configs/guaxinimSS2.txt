@@ -1,0 +1,7 @@
+# Configuration file for secondary server for guaxinim
+guaxinim SP 10.0.21.10
+guaxinim SS 10.0.8.12
+guaxinim DD 127.0.0.3
+guaxinim LG logs/guaxinimSS2.log
+all LG logs/all.log
+root ST rootservers.db

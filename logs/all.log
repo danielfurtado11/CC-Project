@@ -1,0 +1,644 @@
+01:01:2023.17:43:55:432 EV conf-file-read guaxinim.txt
+01:01:2023.17:43:55:433 EV log-file-create logs/guaxinim.log
+01:01:2023.17:43:55:434 EV db-file-read dbs/guaxinim.db
+01:01:2023.17:44:54:943 EV conf-file-read guaxinimSS1.txt
+01:01:2023.17:44:54:944 EV log-file-create logs/all.log
+01:01:2023.17:44:55:805 ZT 10.0.24.10:41710 SP
+01:01:2023.17:44:55:805 ZT 10.0.21.10:2000 SS
+01:01:2023.17:45:06:656 ZT 10.0.24.10:41712 SP
+01:01:2023.17:45:06:657 ZT 10.0.21.10:2000 SS
+01:01:2023.20:26:44:601 EV conf-file-read configSR.txt
+01:01:2023.20:30:32:092 EV conf-file-read guaxinim.txt
+01:01:2023.20:30:32:092 EV log-file-create logs/guaxinim.log
+01:01:2023.20:30:32:092 EV db-file-read dbs/guaxinim.db
+01:01:2023.20:30:36:099 EV conf-file-read guaxinim.txt
+01:01:2023.20:30:36:100 EV log-file-create logs/guaxinim.log
+01:01:2023.20:30:36:101 EV db-file-read dbs/guaxinim.db
+01:01:2023.20:30:52:313 QR 10.0.28.10:49389 42116,Q,0,0,0,0;guaxinim.,MX;
+01:01:2023.20:30:52:313 RE 10.0.28.10:49389 ['42116,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 193.136.130.200 86400,mx2.guaxinim. A 193.136.130.201 86400;']
+01:01:2023.20:32:46:923 EV conf-file-read pepino.txt
+01:01:2023.20:32:46:924 EV log-file-create logs/pepino.log
+01:01:2023.20:32:46:924 EV db-file-read dbs/pepino.db
+01:01:2023.20:33:54:728 EV conf-file-read pepino.txt
+01:01:2023.20:33:54:729 EV log-file-create logs/pepino.log
+01:01:2023.20:33:54:730 EV db-file-read dbs/pepino.db
+01:01:2023.20:35:08:406 EV conf-file-read grandeguaxinim.txt
+01:01:2023.20:35:08:407 EV log-file-create logs/grandeguaxinim.log
+01:01:2023.20:35:08:407 EV db-file-read dbs/grandeguaxinim.db
+01:01:2023.22:27:48:563 EV conf-file-read guaxinim.txt
+01:01:2023.22:27:48:564 EV log-file-create logs/guaxinim.log
+01:01:2023.22:27:48:565 EV db-file-read dbs/guaxinim.db
+01:01:2023.22:28:20:024 EV conf-file-read pepino.txt
+01:01:2023.22:28:20:025 EV log-file-create logs/pepino.log
+01:01:2023.22:28:20:026 EV db-file-read dbs/pepino.db
+01:01:2023.22:36:13:659 EV conf-file-read guaxinim.txt
+01:01:2023.22:36:13:660 EV log-file-create logs/guaxinim.log
+01:01:2023.22:36:13:661 EV db-file-read dbs/guaxinim.db
+01:01:2023.22:36:45:464 EV conf-file-read palhacopepino.txt
+01:01:2023.22:36:45:465 EV log-file-create logs/palhacopepino.log
+01:01:2023.22:36:45:466 EV db-file-read dbs/palhacopepino.db
+01:01:2023.22:42:30:604 EV conf-file-read guaxinim.txt
+01:01:2023.22:42:30:605 EV log-file-create logs/guaxinim.log
+01:01:2023.22:42:30:606 EV db-file-read dbs/guaxinim.db
+01:01:2023.22:42:32:426 EV conf-file-read pepino.txt
+01:01:2023.22:42:32:427 EV log-file-create logs/pepino.log
+01:01:2023.22:42:32:428 EV db-file-read dbs/pepino.db
+01:01:2023.22:43:50:467 EV conf-file-read guaxinim.txt
+01:01:2023.22:43:50:468 EV log-file-create logs/guaxinim.log
+01:01:2023.22:43:50:469 EV db-file-read dbs/guaxinim.db
+01:01:2023.22:43:58:349 EV conf-file-read pepino.txt
+01:01:2023.22:43:58:350 EV log-file-create logs/pepino.log
+01:01:2023.22:43:58:351 EV db-file-read dbs/pepino.db
+01:01:2023.23:04:55:077 EV conf-file-read guaxinimSS1.txt
+01:01:2023.23:04:55:083 EV log-file-create logs/all.log
+01:01:2023.23:07:36:095 EV conf-file-read guaxinim.txt
+01:01:2023.23:07:36:106 EV log-file-create logs/guaxinim.log
+01:01:2023.23:07:36:107 EV db-file-read dbs/guaxinim.db
+01:01:2023.23:12:32:416 EV conf-file-read guaxinim.txt
+01:01:2023.23:12:32:417 EV log-file-create logs/guaxinim.log
+01:01:2023.23:12:32:418 EV db-file-read dbs/guaxinim.db
+01:01:2023.23:15:37:180 EV conf-file-read pepino.txt
+01:01:2023.23:15:37:181 EV log-file-create logs/pepino.log
+01:01:2023.23:15:37:182 EV db-file-read dbs/pepino.db
+01:01:2023.23:15:41:437 EV conf-file-read pepino.txt
+01:01:2023.23:15:41:437 EV log-file-create logs/pepino.log
+01:01:2023.23:15:41:438 EV db-file-read dbs/pepino.db
+01:01:2023.23:18:30:648 EV conf-file-read guaxinim.txt
+01:01:2023.23:18:30:649 EV log-file-create logs/guaxinim.log
+01:01:2023.23:18:30:650 EV db-file-read dbs/guaxinim.db
+01:01:2023.23:19:03:073 EV conf-file-read pepino.txt
+01:01:2023.23:19:03:074 EV log-file-create logs/pepino.log
+01:01:2023.23:19:03:075 EV db-file-read dbs/pepino.db
+01:01:2023.23:27:54:617 EV conf-file-read guaxinim.txt
+01:01:2023.23:27:54:618 EV log-file-create logs/guaxinim.log
+01:01:2023.23:27:54:619 EV db-file-read dbs/guaxinim.db
+01:01:2023.23:29:19:442 EV conf-file-read configSR.txt
+01:01:2023.23:32:32:550 EV conf-file-read pepino.txt
+01:01:2023.23:32:32:551 EV log-file-create logs/pepino.log
+01:01:2023.23:32:32:552 EV db-file-read dbs/pepino.db
+01:01:2023.23:33:18:497 EV conf-file-read palhacopepino.txt
+01:01:2023.23:33:18:498 EV log-file-create logs/palhacopepino.log
+01:01:2023.23:33:18:499 EV db-file-read dbs/palhacopepino.db
+01:01:2023.23:33:28:345 QR 10.0.28.10:37833 57179,Q,0,0,0,0;guaxinim.,MX;
+01:01:2023.23:33:28:345 RE 10.0.28.10:37833 ['57179,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 193.136.130.200 86400,mx2.guaxinim. A 193.136.130.201 86400;']
+01:01:2023.23:33:57:081 QR 10.0.28.10:59254 769,Q,0,0,0,0;www.guaxinim.,A;
+01:01:2023.23:33:57:081 RE 10.0.28.10:59254 ['769,A,0,2,3,3;', 'www.guaxinim. A 193.136.130.80 86400 200,www.guaxinim. A 193.136.130.81 86400 200;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400;']
+01:01:2023.23:36:13:307 EV conf-file-read palhacopepino.txt
+01:01:2023.23:36:13:308 EV log-file-create logs/palhacopepino.log
+01:01:2023.23:36:13:309 EV db-file-read dbs/palhacopepino.db
+01:01:2023.23:35:42:703 EV conf-file-read configST.txt
+01:01:2023.23:35:42:704 EV db-file-read dbs/st.db
+01:01:2023.23:31:59:303 EV conf-file-read configST.txt
+01:01:2023.23:31:59:303 EV db-file-read dbs/st.db
+01:01:2023.23:36:26:078 EV conf-file-read pepino.txt
+01:01:2023.23:36:26:079 EV log-file-create logs/pepino.log
+01:01:2023.23:36:26:080 EV db-file-read dbs/pepino.db
+01:01:2023.23:36:27:958 EV conf-file-read guaxinim.txt
+01:01:2023.23:36:27:959 EV log-file-create logs/guaxinim.log
+01:01:2023.23:36:27:960 EV db-file-read dbs/guaxinim.db
+01:01:2023.23:36:30:117 EV conf-file-read configSR.txt
+01:01:2023.23:36:32:729 QR 10.0.28.10:59695 11804,Q,0,0,0,0;www.guaxinim.,A;
+01:01:2023.23:36:32:729 RE 10.0.28.10:59695 ['11804,A,0,2,3,3;', 'www.guaxinim. A 193.136.130.80 86400 200,www.guaxinim. A 193.136.130.81 86400 200;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400;']
+01:01:2023.23:36:44:941 QR 10.0.28.10:40306 31236,Q,0,0,0,0;guaxinim.,MX;
+01:01:2023.23:36:44:941 RE 10.0.28.10:40306 ['31236,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 193.136.130.200 86400,mx2.guaxinim. A 193.136.130.201 86400;']
+01:01:2023.23:36:21:798 EV conf-file-read configST.txt
+01:01:2023.23:36:21:798 EV db-file-read dbs/st.db
+01:01:2023.23:36:24:327 EV conf-file-read configST.txt
+01:01:2023.23:36:24:327 EV db-file-read dbs/st.db
+01:01:2023.23:40:53:145 EV conf-file-read configSR.txt
+01:01:2023.23:41:36:562 EV conf-file-read pepino.txt
+01:01:2023.23:41:36:563 EV log-file-create logs/pepino.log
+01:01:2023.23:41:36:564 EV db-file-read dbs/pepino.db
+01:01:2023.23:44:54:059 EV conf-file-read configSR.txt
+01:01:2023.23:40:11:925 EV conf-file-read configST.txt
+01:01:2023.23:40:11:927 EV db-file-read dbs/st.db
+01:01:2023.23:48:20:005 EV conf-file-read configSR.txt
+01:01:2023.23:48:40:241 EV conf-file-read configSR.txt
+01:01:2023.23:48:14:377 EV conf-file-read configST.txt
+01:01:2023.23:48:14:378 EV db-file-read dbs/st.db
+01:01:2023.23:49:49:704 EV conf-file-read configSR.txt
+01:01:2023.23:48:46:520 EV conf-file-read configST.txt
+01:01:2023.23:48:46:522 EV db-file-read dbs/st.db
+01:01:2023.23:49:58:375 QR 10.0.28.10:52307 36167,Q,0,0,0,0;pepino.,MX;
+01:01:2023.23:49:58:375 RE 10.0.28.10:52307 ['36167,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+01:01:2023.23:50:07:185 QR 10.0.28.10:52297 33085,Q,0,0,0,0;www.pepino.,A;
+01:01:2023.23:50:07:185 RE 10.0.28.10:52297 ['33085,A,0,2,3,3;', 'www.pepino. A 193.136.130.80 86400 200,www.pepino. A 193.136.130.81 86400 200;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+01:01:2023.23:52:22:810 EV conf-file-read configSR.txt
+01:01:2023.23:52:29:501 EV conf-file-read pepino.txt
+01:01:2023.23:52:29:502 EV log-file-create logs/pepino.log
+01:01:2023.23:52:29:503 EV db-file-read dbs/pepino.db
+01:01:2023.23:49:56:163 EV conf-file-read configST.txt
+01:01:2023.23:49:56:164 EV db-file-read dbs/st.db
+01:01:2023.23:49:58:374 QR 10.0.28.10:41279 36167,Q,0,0,0,0;pepino.,MX;
+01:01:2023.23:49:58:375 RE 10.0.28.10:41279 ['36167,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.18.10 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+01:01:2023.23:50:07:185 QR 10.0.28.10:54421 33085,Q,0,0,0,0;www.pepino.,A;
+01:01:2023.23:50:07:185 RE 10.0.28.10:54421 ['33085,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.18.10 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+01:01:2023.23:53:57:353 EV conf-file-read guaxinim.txt
+01:01:2023.23:53:57:354 EV log-file-create logs/guaxinim.log
+01:01:2023.23:53:57:355 EV db-file-read dbs/guaxinim.db
+01:01:2023.23:54:31:076 EV conf-file-read grandeguaxinim.txt
+01:01:2023.23:54:31:077 EV log-file-create logs/grandeguaxinim.log
+01:01:2023.23:54:31:077 EV db-file-read dbs/grandeguaxinim.db
+01:01:2023.23:55:07:393 EV conf-file-read palhacopepino.txt
+01:01:2023.23:55:07:394 EV log-file-create logs/palhacopepino.log
+01:01:2023.23:55:07:395 EV db-file-read dbs/palhacopepino.db
+01:01:2023.23:55:50:714 EV conf-file-read configSR.txt
+01:01:2023.23:56:03:411 QR 10.0.28.10:33078 24795,Q,0,0,0,0;pepino.,MX;
+01:01:2023.23:56:03:411 RE 10.0.28.10:33078 ['24795,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+01:01:2023.23:56:09:859 QR 10.0.28.10:42970 27528,Q,0,0,0,0;pepino.,MX;
+01:01:2023.23:56:09:859 RE 10.0.28.10:42970 ['27528,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+01:01:2023.23:56:20:849 QR 10.0.28.10:58304 24352,Q,0,0,0,0;www.pepino.,A;
+01:01:2023.23:56:20:849 RE 10.0.28.10:58304 ['24352,A,0,2,3,3;', 'www.pepino. A 193.136.130.80 86400 200,www.pepino. A 193.136.130.81 86400 200;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+01:01:2023.23:56:28:955 QR 10.0.28.10:42448 43433,Q,0,0,0,0;www.palhaco.pepino.,A;
+01:01:2023.23:56:28:955 RE 10.0.28.10:42448 ['43433,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+01:01:2023.23:56:28:955 QR 10.0.28.10:41641 43433,Q,0,0,0,0;www.palhaco.pepino.,A;
+01:01:2023.23:56:28:955 RE 10.0.28.10:41641 ['43433,A,0,2,3,3;', 'www.palhaco.pepino. A 193.136.130.80 86400 200,www.palhaco.pepino. A 193.136.130.81 86400 200;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400;']
+01:01:2023.23:56:50:755 QR 10.0.28.10:41924 26800,Q,0,0,0,0;guaxinim.,MX;
+01:01:2023.23:56:50:755 RE 10.0.28.10:41924 ['26800,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 193.136.130.200 86400,mx2.guaxinim. A 193.136.130.201 86400;']
+01:01:2023.23:57:01:160 QR 10.0.28.10:35482 35823,Q,0,0,0,0;www.guaxinim.,A;
+01:01:2023.23:57:01:160 RE 10.0.28.10:35482 ['35823,A,0,2,3,3;', 'www.guaxinim. A 193.136.130.80 86400 200,www.guaxinim. A 193.136.130.81 86400 200;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400;']
+01:01:2023.23:57:09:622 QR 10.0.28.10:57243 9964,Q,0,0,0,0;www.grande.guaxinim.,A;
+01:01:2023.23:57:09:622 RE 10.0.28.10:57243 ['9964,A,1,0,1,1;', ';', 'grande.guaxinim. NS sp.grande.guaxinim. 86400;', 'sp.grande.guaxinim. A 10.0.6.12 86400;']
+01:01:2023.23:57:09:623 QR 10.0.28.10:35983 9964,Q,0,0,0,0;www.grande.guaxinim.,A;
+01:01:2023.23:57:09:623 RE 10.0.28.10:35983 ['9964,A,1,0,1,1;', ';', 'grande.guaxinim. NS sp.grande.guaxinim. 86400;', 'sp.grande.guaxinim. A 10.0.6.12 86400;']
+01:01:2023.23:57:09:623 QR 10.0.28.10:52552 9964,Q,0,0,0,0;www.grande.guaxinim.,A;
+01:01:2023.23:57:09:623 RE 10.0.28.10:52552 ['9964,A,0,2,3,3;', 'www.grande.guaxinim. A 193.136.130.80 86400 200,www.grande.guaxinim. A 193.136.130.81 86400 200;', 'grande.guaxinim. NS ns1.grande.guaxinim. 86400,grande.guaxinim. NS ns2.grande.guaxinim. 86400,grande.guaxinim. NS ns3.grande.guaxinim. 86400;', 'ns1.grande.guaxinim. A 10.0.6.12 86400,ns2.grande.guaxinim. A 10.0.24.10 86400,ns3.grande.guaxinim. A 10.0.23.10 86400;']
+01:01:2023.23:57:19:703 QR 10.0.28.10:45561 14030,Q,0,0,0,0;grande.guaxinim.,MX;
+01:01:2023.23:57:19:703 RE 10.0.28.10:45561 ['14030,A,1,0,1,1;', ';', 'grande.guaxinim. NS sp.grande.guaxinim. 86400;', 'sp.grande.guaxinim. A 10.0.6.12 86400;']
+01:01:2023.23:57:19:704 QR 10.0.28.10:53043 14030,Q,0,0,0,0;grande.guaxinim.,MX;
+01:01:2023.23:57:19:704 RE 10.0.28.10:53043 ['14030,A,1,0,1,1;', ';', 'grande.guaxinim. NS sp.grande.guaxinim. 86400;', 'sp.grande.guaxinim. A 10.0.6.12 86400;']
+01:01:2023.23:57:19:704 QR 10.0.28.10:45067 14030,Q,0,0,0,0;grande.guaxinim.,MX;
+01:01:2023.23:57:19:704 RE 10.0.28.10:45067 ['14030,A,0,2,3,5;', 'grande.guaxinim. MX mx1.grande.guaxinim. 86400 10,grande.guaxinim. MX mx2.grande.guaxinim. 86400 20;', 'grande.guaxinim. NS ns1.grande.guaxinim. 86400,grande.guaxinim. NS ns2.grande.guaxinim. 86400,grande.guaxinim. NS ns3.grande.guaxinim. 86400;', 'ns1.grande.guaxinim. A 10.0.6.12 86400,ns2.grande.guaxinim. A 10.0.24.10 86400,ns3.grande.guaxinim. A 10.0.23.10 86400,mx1.grande.guaxinim. A 193.136.130.200 86400,mx2.grande.guaxinim. A 193.136.130.201 86400;']
+02:01:2023.14:35:55:421 EV conf-file-read configSR.txt
+02:01:2023.14:36:50:283 EV conf-file-read configSR.txt
+02:01:2023.14:37:31:063 EV conf-file-read configSR.txt
+02:01:2023.14:50:37:996 EV conf-file-read configSR.txt
+02:01:2023.14:51:07:576 QR 10.0.28.10:33584 45023,Q,0,0,0,0;grande.guaxinim.,MX;
+02:01:2023.14:51:07:576 RE 10.0.28.10:33584 ['45023,A,1,0,1,1;', ';', 'grande.guaxinim. NS sp.grande.guaxinim. 86400;', 'sp.grande.guaxinim. A 10.0.6.12 86400;']
+02:01:2023.14:54:53:971 QR 10.0.28.10:37514 63856,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.14:54:53:972 RE 10.0.28.10:37514 ['63856,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.14:55:34:927 EV conf-file-read configSR.txt
+02:01:2023.14:55:37:400 QR 10.0.28.10:59996 54347,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.14:55:37:400 RE 10.0.28.10:59996 ['54347,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.14:56:40:641 EV conf-file-read configSR.txt
+02:01:2023.14:57:30:755 EV conf-file-read pepino.txt
+02:01:2023.14:57:30:756 EV log-file-create logs/pepino.log
+02:01:2023.14:57:30:757 EV db-file-read dbs/pepino.db
+02:01:2023.15:03:36:337 EV conf-file-read configSR.txt
+02:01:2023.15:03:48:979 QR 10.0.28.10:49742 52038,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:03:48:979 RE 10.0.28.10:49742 ['52038,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:05:42:694 EV conf-file-read configSR.txt
+02:01:2023.15:05:48:278 QR 10.0.28.10:59102 37888,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:05:48:278 RE 10.0.28.10:59102 ['37888,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:12:08:240 EV conf-file-read pepino.txt
+02:01:2023.15:12:08:241 EV log-file-create logs/pepino.log
+02:01:2023.15:12:08:242 EV db-file-read dbs/pepino.db
+02:01:2023.15:12:44:248 EV conf-file-read configSR.txt
+02:01:2023.15:12:53:299 QR 10.0.28.10:44628 54886,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:12:53:299 RE 10.0.28.10:44628 ['54886,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:13:32:174 EV conf-file-read configSR.txt
+02:01:2023.15:13:38:591 QR 10.0.28.10:40949 1664,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:13:38:591 RE 10.0.28.10:40949 ['1664,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:13:59:127 EV conf-file-read palhacopepino.txt
+02:01:2023.15:13:59:140 EV log-file-create logs/palhacopepino.log
+02:01:2023.15:13:59:141 EV db-file-read dbs/palhacopepino.db
+02:01:2023.15:14:02:285 QR 10.0.28.10:59272 34653,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:14:02:285 RE 10.0.28.10:59272 ['34653,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:14:02:285 QR 10.0.28.10:42471 34653,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:14:02:286 RE 10.0.28.10:42471 ['34653,A,0,2,3,3;', 'palhaco.pepino. MX mx1.palhaco.pepino 86400 10,palhaco.pepino. MX mx2.palhaco.pepino 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400;']
+02:01:2023.15:14:41:166 EV conf-file-read configSR.txt
+02:01:2023.15:15:07:574 QR 10.0.28.10:40857 40897,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:15:07:574 RE 10.0.28.10:40857 ['40897,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:20:38:332 EV conf-file-read pepino.txt
+02:01:2023.15:20:38:333 EV log-file-create logs/pepino.log
+02:01:2023.15:20:38:334 EV db-file-read dbs/pepino.db
+02:01:2023.15:33:07:688 EV conf-file-read pepino.txt
+02:01:2023.15:33:07:689 EV log-file-create logs/pepino.log
+02:01:2023.15:33:07:691 EV db-file-read dbs/pepino.db
+02:01:2023.15:33:09:963 EV conf-file-read guaxinim.txt
+02:01:2023.15:33:09:965 EV log-file-create logs/guaxinim.log
+02:01:2023.15:33:09:966 EV db-file-read dbs/guaxinim.db
+02:01:2023.15:33:11:464 EV conf-file-read grandeguaxinim.txt
+02:01:2023.15:33:11:465 EV log-file-create logs/grandeguaxinim.log
+02:01:2023.15:33:11:467 EV db-file-read dbs/grandeguaxinim.db
+02:01:2023.15:33:56:393 EV conf-file-read configSR.txt
+02:01:2023.15:33:13:541 EV conf-file-read configST.txt
+02:01:2023.15:33:13:542 EV db-file-read dbs/st.db
+02:01:2023.15:34:43:050 EV conf-file-read configST.txt
+02:01:2023.15:34:43:051 EV db-file-read dbs/st.db
+02:01:2023.15:35:23:185 EV conf-file-read configSR.txt
+02:01:2023.15:35:25:359 EV conf-file-read guaxinim.txt
+02:01:2023.15:35:25:361 EV log-file-create logs/guaxinim.log
+02:01:2023.15:35:25:362 EV db-file-read dbs/guaxinim.db
+02:01:2023.15:35:26:605 EV conf-file-read grandeguaxinim.txt
+02:01:2023.15:35:26:607 EV log-file-create logs/grandeguaxinim.log
+02:01:2023.15:35:26:608 EV db-file-read dbs/grandeguaxinim.db
+02:01:2023.15:35:28:725 EV conf-file-read pepino.txt
+02:01:2023.15:35:28:726 EV log-file-create logs/pepino.log
+02:01:2023.15:35:28:728 EV db-file-read dbs/pepino.db
+02:01:2023.15:35:27:584 EV conf-file-read configST.txt
+02:01:2023.15:35:27:585 EV db-file-read dbs/st.db
+02:01:2023.15:36:58:035 EV conf-file-read configSR.txt
+02:01:2023.15:38:56:695 EV conf-file-read configSR.txt
+02:01:2023.15:40:28:373 EV conf-file-read pepino.txt
+02:01:2023.15:40:28:374 EV log-file-create logs/pepino.log
+02:01:2023.15:40:28:375 EV db-file-read dbs/pepino.db
+02:01:2023.15:40:53:521 EV conf-file-read configSR.txt
+02:01:2023.15:40:57:608 QR 10.0.28.10:45325 43194,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:40:57:608 RE 10.0.28.10:45325 ['43194,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:41:17:833 EV conf-file-read configSR.txt
+02:01:2023.15:41:20:432 QR 10.0.28.10:33966 19795,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:41:20:432 RE 10.0.28.10:33966 ['19795,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:41:41:935 QR 10.0.28.10:55833 40110,Q,0,0,0,0;pepino.,MX;
+02:01:2023.15:41:41:935 RE 10.0.28.10:55833 ['40110,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.15:41:44:041 QR 10.0.28.10:35319 20543,Q,0,0,0,0;pepino.,MX;
+02:01:2023.15:41:44:042 RE 10.0.28.10:35319 ['20543,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.15:42:46:721 EV conf-file-read configSR.txt
+02:01:2023.15:44:07:790 QR 10.0.28.10:48612 34691,Q,0,0,0,0;pepino.,MX;
+02:01:2023.15:44:07:790 RE 10.0.28.10:48612 ['34691,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.15:47:29:803 EV conf-file-read guaxinim.txt
+02:01:2023.15:47:29:804 EV log-file-create logs/guaxinim.log
+02:01:2023.15:47:29:805 EV db-file-read dbs/guaxinim.db
+02:01:2023.15:47:32:500 QR 10.0.28.10:53761 29353,Q,0,0,0,0;guaxinim.,MX;
+02:01:2023.15:47:32:500 RE 10.0.28.10:53761 ['29353,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 193.136.130.200 86400,mx2.guaxinim. A 193.136.130.201 86400;']
+02:01:2023.15:47:44:195 QR 10.0.28.10:46044 36375,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.15:47:44:195 RE 10.0.28.10:46044 ['36375,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.15:48:01:799 QR 10.0.28.10:47850 43299,Q,0,0,0,0;pepino.,MX;
+02:01:2023.15:48:01:800 RE 10.0.28.10:47850 ['43299,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.15:48:12:369 QR 10.0.28.10:34463 56341,Q,0,0,0,0;www.pepino.,A;
+02:01:2023.15:48:12:369 RE 10.0.28.10:34463 ['56341,A,0,2,3,3;', 'www.pepino. A 193.136.130.80 86400 200,www.pepino. A 193.136.130.81 86400 200;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.16:39:13:273 EV conf-file-read guaxinim.txt
+02:01:2023.16:39:13:275 EV log-file-create logs/guaxinim.log
+02:01:2023.16:39:13:276 EV db-file-read dbs/guaxinim.db
+02:01:2023.16:39:30:397 EV conf-file-read guaxinimSS1.txt
+02:01:2023.16:39:30:398 EV log-file-create logs/all.log
+02:01:2023.16:39:31:259 ZT 10.0.21.10:53 SS
+02:01:2023.16:39:31:260 ZT 10.0.8.12:37604 SP
+02:01:2023.16:39:42:125 ZT 10.0.21.10:53 SS
+02:01:2023.16:39:42:133 ZT 10.0.8.12:37606 SP
+02:01:2023.16:39:52:983 ZT 10.0.21.10:53 SS
+02:01:2023.16:39:52:983 ZT 10.0.8.12:37608 SP
+02:01:2023.16:40:03:843 ZT 10.0.8.12:37610 SP
+02:01:2023.16:40:03:844 ZT 10.0.21.10:53 SS
+02:01:2023.17:03:53:990 EV conf-file-read configSR.txt
+02:01:2023.17:04:24:682 EV conf-file-read configSR.txt
+02:01:2023.17:05:23:830 EV conf-file-read guaxinim.txt
+02:01:2023.17:05:23:831 EV log-file-create logs/guaxinim.log
+02:01:2023.17:05:23:832 EV db-file-read dbs/guaxinim.db
+02:01:2023.17:06:15:414 EV conf-file-read pepino.txt
+02:01:2023.17:06:15:418 EV log-file-create logs/pepino.log
+02:01:2023.17:06:15:419 EV db-file-read dbs/pepino.db
+02:01:2023.17:06:44:167 EV conf-file-read grandeguaxinim.txt
+02:01:2023.17:06:44:169 EV log-file-create logs/grandeguaxinim.log
+02:01:2023.17:06:44:170 EV db-file-read dbs/grandeguaxinim.db
+02:01:2023.17:06:55:924 QR 10.0.28.10:46562 33874,Q,0,0,0,0;www.guaxinim.,A;
+02:01:2023.17:06:55:924 RE 10.0.28.10:46562 ['33874,A,0,2,3,3;', 'www.guaxinim. A 10.0.29.11 86400 200,www.guaxinim. A 10.0.28.12 86400 200;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400;']
+02:01:2023.17:07:12:596 QR 10.0.28.10:37494 32711,Q,0,0,0,0;guaxinim.,MX;
+02:01:2023.17:07:12:596 RE 10.0.28.10:37494 ['32711,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+02:01:2023.17:08:04:547 EV conf-file-read configSR.txt
+02:01:2023.17:04:52:891 EV conf-file-read configST.txt
+02:01:2023.17:04:52:892 EV db-file-read dbs/st.db
+02:01:2023.17:07:29:451 QR 10.0.28.10:53834 42594,Q,0,0,0,0;pepino.,MX;
+02:01:2023.17:07:29:451 RE 10.0.28.10:53834 ['42594,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.18.10 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:08:06:807 QR 10.0.28.10:54304 37234,Q,0,0,0,0;pepino.,MX;
+02:01:2023.17:08:06:807 RE 10.0.28.10:54304 ['37234,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.18.10 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:09:21:657 EV conf-file-read configSR.txt
+02:01:2023.17:13:58:120 EV conf-file-read configSR.txt
+02:01:2023.17:15:29:676 EV conf-file-read configSR.txt
+02:01:2023.17:19:29:639 EV conf-file-read configSR.txt
+02:01:2023.17:09:18:800 EV conf-file-read configST.txt
+02:01:2023.17:09:18:801 EV db-file-read dbs/st.db
+02:01:2023.17:09:24:068 QR 10.0.28.10:42176 36286,Q,0,0,0,0;pepino.,MX;
+02:01:2023.17:09:24:068 RE 10.0.28.10:42176 ['36286,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.18.10 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:14:00:907 QR 10.0.28.10:56075 42615,Q,0,0,0,0;pepino.,MX;
+02:01:2023.17:14:00:907 RE 10.0.28.10:56075 ['42615,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.18.10 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:15:31:779 QR 10.0.28.10:36047 17431,Q,0,0,0,0;pepino.,MX;
+02:01:2023.17:15:31:779 RE 10.0.28.10:36047 ['17431,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.18.10 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:19:33:520 QR 10.0.28.10:39116 18231,Q,0,0,0,0;pepino.,MX;
+02:01:2023.17:19:33:520 RE 10.0.28.10:39116 ['18231,A,0,2,3,3;', 'pepino. MX mx1.pepino 86400 10,pepino. MX mx2.pepino 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:19:57:198 QR 10.0.28.10:56228 3072,Q,0,0,0,0;www.pepino.,A;
+02:01:2023.17:19:57:198 RE 10.0.28.10:56228 ['3072,A,0,2,3,3;', 'www.pepino. A 10.0.36.10 86400 200,www.pepino. A 10.0.34.10 86400 200;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:20:02:216 QR 10.0.28.10:37526 18201,Q,0,0,0,0;ftp.pepino.,A;
+02:01:2023.17:20:02:216 RE 10.0.28.10:37526 ['18201,A,0,1,3,3;', 'ftp.pepino. A 10.0.35.11 86400;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+02:01:2023.17:20:24:278 QR 10.0.28.10:53507 13339,Q,0,0,0,0;palhaco.pepino.,MX;
+02:01:2023.17:20:24:278 RE 10.0.28.10:53507 ['13339,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+02:01:2023.17:20:47:411 QR 10.0.28.10:34022 45987,Q,0,0,0,0;www.guaxinim.,A;
+02:01:2023.17:20:47:411 RE 10.0.28.10:34022 ['45987,A,0,2,3,3;', 'www.guaxinim. A 10.0.29.11 86400 200,www.guaxinim. A 10.0.28.12 86400 200;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400;']
+02:01:2023.17:20:52:653 QR 10.0.28.10:57008 19782,Q,0,0,0,0;www.grande.guaxinim.,A;
+02:01:2023.17:20:52:653 RE 10.0.28.10:57008 ['19782,A,1,0,1,1;', ';', 'grande.guaxinim. NS sp.grande.guaxinim. 86400;', 'sp.grande.guaxinim. A 10.0.6.12 86400;']
+02:01:2023.17:20:52:654 QR 10.0.28.10:42823 19782,Q,0,0,0,0;www.grande.guaxinim.,A;
+02:01:2023.17:20:52:654 RE 10.0.28.10:42823 ['19782,A,1,0,1,1;', ';', 'grande.guaxinim. NS sp.grande.guaxinim. 86400;', 'sp.grande.guaxinim. A 10.0.6.12 86400;']
+02:01:2023.17:20:52:654 QR 10.0.28.10:45109 19782,Q,0,0,0,0;www.grande.guaxinim.,A;
+02:01:2023.17:20:52:655 RE 10.0.28.10:45109 ['19782,A,0,2,3,3;', 'www.grande.guaxinim. A 10.0.37.11 86400 200,www.grande.guaxinim. A 10.0.18.10 86400 200;', 'grande.guaxinim. NS ns1.grande.guaxinim. 86400,grande.guaxinim. NS ns2.grande.guaxinim. 86400,grande.guaxinim. NS ns3.grande.guaxinim. 86400;', 'ns1.grande.guaxinim. A 10.0.6.12 86400,ns2.grande.guaxinim. A 10.0.24.10 86400,ns3.grande.guaxinim. A 10.0.23.10 86400;']
+02:01:2023.23:52:37:591 EV conf-file-read configSR.txt
+02:01:2023.23:57:14:672 ST 127.0.0.1 53 200 shy
+02:01:2023.23:57:14:672 EV conf-file-read config10.txt
+02:01:2023.23:59:33:049 QR 10.0.8.20:51548 40377,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+02:01:2023.23:59:33:051 RE 10.0.8.20:51548 ['40377,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:00:02:167 QR 10.0.8.20:41629 13561,Q,0,0,0,0;11.17.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:00:02:169 RE 10.0.8.20:41629 ['13561,A,0,2,1,0;', '11.17.0.10.in-addr.reverse. PTR sp.palhaco.pepino 86400,11.17.0.10.in-addr.reverse. PTR ns1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:00:49:356 QR 10.0.8.20:49449 29009,Q,0,0,0,0;11.17.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:00:49:356 RE 10.0.8.20:49449 ['13561,A,0,2,1,0;', '11.17.0.10.in-addr.reverse. PTR sp.palhaco.pepino 86400,11.17.0.10.in-addr.reverse. PTR ns1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:00:49:358 RE 10.0.8.20:49449 ['29009,A,0,2,1,0;', '11.17.0.10.in-addr.reverse. PTR sp.palhaco.pepino 86400,11.17.0.10.in-addr.reverse. PTR ns1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:01:03:051 QR 10.0.8.20:43539 26147,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:01:03:051 RE 10.0.8.20:43539 ['29009,A,0,2,1,0;', '11.17.0.10.in-addr.reverse. PTR sp.palhaco.pepino 86400,11.17.0.10.in-addr.reverse. PTR ns1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:01:03:054 RE 10.0.8.20:43539 ['26147,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:01:09:158 QR 10.0.8.20:39262 25793,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:01:09:158 RE 10.0.8.20:39262 ['26147,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:01:09:160 RE 10.0.8.20:39262 ['25793,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:03:53:083 QR 10.0.8.20:39922 45800,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:03:53:083 RE 10.0.8.20:39922 ['25793,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:03:53:086 RE 10.0.8.20:39922 ['45800,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+02:01:2023.23:58:29:333 ST 127.0.0.1 53 200 shy
+02:01:2023.23:58:29:333 EV conf-file-read config10.txt
+02:01:2023.23:58:29:336 EV db-file-read dbs/subsubreverse.db
+02:01:2023.23:59:33:051 QR 10.0.28.10:57306 40377,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+02:01:2023.23:59:33:051 RE 10.0.28.10:57306 ['40377,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:00:02:169 QR 10.0.28.10:50412 13561,Q,0,0,0,0;11.17.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:00:02:169 RE 10.0.28.10:50412 ['13561,A,0,2,1,0;', '11.17.0.10.in-addr.reverse. PTR sp.palhaco.pepino 86400,11.17.0.10.in-addr.reverse. PTR ns1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:00:49:358 QR 10.0.28.10:43078 29009,Q,0,0,0,0;11.17.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:00:49:358 RE 10.0.28.10:43078 ['29009,A,0,2,1,0;', '11.17.0.10.in-addr.reverse. PTR sp.palhaco.pepino 86400,11.17.0.10.in-addr.reverse. PTR ns1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:01:03:053 QR 10.0.28.10:58701 26147,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:01:03:053 RE 10.0.28.10:58701 ['26147,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:01:09:160 QR 10.0.28.10:39438 25793,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:01:09:160 RE 10.0.28.10:39438 ['25793,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:03:53:085 QR 10.0.28.10:48464 45800,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:03:53:085 RE 10.0.28.10:48464 ['45800,A,0,1,1,0;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', ';']
+03:01:2023.00:04:58:738 ST 127.0.0.1 53 200 shy
+03:01:2023.00:04:58:738 EV conf-file-read config10.txt
+03:01:2023.00:04:58:742 EV db-file-read dbs/subsubreverse.db
+03:01:2023.00:06:18:842 EV conf-file-read configSR.txt
+03:01:2023.00:06:20:831 QR 10.0.8.20:51202 61180,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:06:20:833 RE 10.0.8.20:51202 ['61180,A,0,1,1,1;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+03:01:2023.00:06:39:028 QR 10.0.8.20:43697 472,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:06:39:028 RE 10.0.8.20:43697 ['61180,A,0,1,1,1;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+03:01:2023.00:06:39:031 RE 10.0.8.20:43697 ['472,A,0,1,1,1;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+03:01:2023.00:07:54:142 EV conf-file-read pepino.txt
+03:01:2023.00:07:54:144 EV log-file-create logs/pepino.log
+03:01:2023.00:07:54:145 EV db-file-read dbs/pepino.db
+03:01:2023.00:08:19:491 QR 10.0.28.10:58292 54665,Q,0,0,0,0;pepino.,MX;
+03:01:2023.00:08:19:492 RE 10.0.28.10:58292 ['54665,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+03:01:2023.00:08:19:491 QR 10.0.8.20:48163 54665,Q,0,0,0,0;pepino.,MX;
+03:01:2023.00:08:19:493 RE 10.0.8.20:48163 ['54665,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+02:01:2023.23:55:52:904 ST 127.0.0.1 53 200 shy
+02:01:2023.23:55:52:904 EV conf-file-read configST.txt
+02:01:2023.23:55:52:906 EV db-file-read dbs/st.db
+02:01:2023.23:59:33:049 QR 10.0.28.10:37360 40377,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+02:01:2023.23:59:33:049 RE 10.0.28.10:37360 ['40377,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:00:02:167 QR 10.0.28.10:36820 13561,Q,0,0,0,0;11.17.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:00:02:167 RE 10.0.28.10:36820 ['13561,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:00:49:356 QR 10.0.28.10:60819 29009,Q,0,0,0,0;11.17.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:00:49:356 RE 10.0.28.10:60819 ['29009,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:01:03:051 QR 10.0.28.10:57217 26147,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:01:03:051 RE 10.0.28.10:57217 ['26147,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:01:09:158 QR 10.0.28.10:34395 25793,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:01:09:158 RE 10.0.28.10:34395 ['25793,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:03:53:084 QR 10.0.28.10:35780 45800,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:03:53:084 RE 10.0.28.10:35780 ['45800,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:06:20:831 QR 10.0.28.10:45600 61180,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:06:20:831 RE 10.0.28.10:45600 ['61180,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:06:39:028 QR 10.0.28.10:60321 472,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+03:01:2023.00:06:39:028 RE 10.0.28.10:60321 ['472,A,1,0,1,1;', ';', 'reverse. NS ns1-reverse.reverse. 86400;', 'ns1-reverse.reverse. A 10.0.20.10 86400;']
+03:01:2023.00:08:19:491 QR 10.0.28.10:60117 54665,Q,0,0,0,0;pepino.,MX;
+03:01:2023.00:08:19:491 RE 10.0.28.10:60117 ['54665,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:27:55:425 EV conf-file-read configSR.txt
+19:01:2023.19:28:43:921 EV conf-file-read guaxinim.txt
+19:01:2023.19:28:43:922 EV log-file-create logs/guaxinim.log
+19:01:2023.19:28:43:924 EV db-file-read dbs/guaxinim.db
+19:01:2023.19:29:05:909 QR 10.0.28.10:57474 31303,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:29:05:909 RE 10.0.28.10:57474 ['31303,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.19:29:05:909 QR 10.0.8.20:46670 31303,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:29:05:910 RE 10.0.8.20:46670 ['31303,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.19:29:53:475 EV conf-file-read pepino.txt
+19:01:2023.19:29:53:477 EV log-file-create logs/pepino.log
+19:01:2023.19:29:53:479 EV db-file-read dbs/pepino.db
+19:01:2023.19:29:59:111 QR 10.0.28.10:52114 3789,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:29:59:111 RE 10.0.28.10:52114 ['3789,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+19:01:2023.19:29:59:110 QR 10.0.8.20:37434 3789,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:29:59:112 RE 10.0.8.20:37434 ['3789,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+19:01:2023.19:30:16:676 QR 10.0.28.10:33814 22125,Q,0,0,0,0;www.pepino.,A;
+19:01:2023.19:30:16:676 RE 10.0.28.10:33814 ['22125,A,0,2,3,3;', 'www.pepino. A 10.0.36.10 86400 200,www.pepino. A 10.0.34.10 86400 200;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:30:16:675 QR 10.0.8.20:35431 22125,Q,0,0,0,0;www.pepino.,A;
+19:01:2023.19:30:16:677 RE 10.0.8.20:35431 ['22125,A,0,2,3,3;', 'www.pepino. A 10.0.36.10 86400 200,www.pepino. A 10.0.34.10 86400 200;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:31:19:547 EV conf-file-read guaxinimSS1.txt
+19:01:2023.19:31:19:548 EV log-file-create logs/all.log
+19:01:2023.19:31:20:399 ZT 10.0.22.10:36020 SP
+19:01:2023.19:31:20:399 ZT 10.0.21.10:53 SS
+19:01:2023.19:31:26:083 QR 10.0.8.20:60572 61609,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:31:26:083 RE 10.0.8.20:60572 ['22125,A,0,2,3,3;', 'www.pepino. A 10.0.36.10 86400 200,www.pepino. A 10.0.34.10 86400 200;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:31:38:913 EV conf-file-read configSR.txt
+19:01:2023.19:31:53:707 QR 10.0.8.20:44703 17268,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:32:26:704 EV conf-file-read guaxinim.txt
+19:01:2023.19:32:26:706 EV log-file-create logs/guaxinim.log
+19:01:2023.19:32:26:707 EV db-file-read dbs/guaxinim.db
+19:01:2023.19:32:30:345 EV conf-file-read configSR.txt
+19:01:2023.19:32:32:545 QR 10.0.28.10:45826 11470,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:32:32:546 RE 10.0.28.10:45826 ['11470,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.19:32:32:545 QR 10.0.8.20:37561 11470,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:32:32:546 RE 10.0.8.20:37561 ['11470,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.19:32:39:638 EV conf-file-read configSR.txt
+19:01:2023.19:32:43:505 QR 10.0.8.20:41072 61943,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:33:07:358 EV conf-file-read guaxinim.txt
+19:01:2023.19:33:07:361 EV log-file-create logs/guaxinim.log
+19:01:2023.19:33:07:362 EV db-file-read dbs/guaxinim.db
+19:01:2023.19:33:57:825 EV conf-file-read pepinoSS1.txt
+19:01:2023.19:33:57:826 EV log-file-create logs/all.log
+19:01:2023.19:34:22:201 EV conf-file-read pepino.txt
+19:01:2023.19:34:22:203 EV log-file-create logs/pepino.log
+19:01:2023.19:34:22:203 EV db-file-read dbs/pepino.db
+19:01:2023.19:34:27:102 EV conf-file-read pepinoSS1.txt
+19:01:2023.19:34:27:104 EV log-file-create logs/all.log
+19:01:2023.19:34:44:370 EV conf-file-read pepinoSS2.txt
+19:01:2023.19:34:44:372 EV log-file-create logs/all.log
+19:01:2023.19:38:00:121 EV conf-file-read pepinoSS1.txt
+19:01:2023.19:38:00:122 EV log-file-create logs/all.log
+19:01:2023.19:38:00:972 ZT 10.0.16.11:39510 SP
+19:01:2023.19:38:00:973 ZT 10.0.36.11:53 SS
+19:01:2023.19:38:09:251 EV conf-file-read configSR.txt
+19:01:2023.19:38:11:011 ZT 10.0.36.11:53 SS
+19:01:2023.19:38:21:933 EV conf-file-read pepino.txt
+19:01:2023.19:38:21:934 EV log-file-create logs/pepino.log
+19:01:2023.19:38:21:935 EV db-file-read dbs/pepino.db
+19:01:2023.19:38:22:989 EV conf-file-read pepinoSS1.txt
+19:01:2023.19:38:22:991 EV log-file-create logs/all.log
+19:01:2023.19:38:23:849 ZT 10.0.16.11:58116 SP
+19:01:2023.19:38:23:850 ZT 10.0.36.11:53 SS
+19:01:2023.19:38:34:699 ZT 10.0.16.11:41614 SP
+19:01:2023.19:38:34:699 ZT 10.0.36.11:53 SS
+19:01:2023.19:38:45:549 ZT 10.0.16.11:33396 SP
+19:01:2023.19:38:45:549 ZT 10.0.36.11:53 SS
+19:01:2023.19:38:56:402 ZT 10.0.16.11:50116 SP
+19:01:2023.19:38:56:402 ZT 10.0.36.11:53 SS
+19:01:2023.19:39:07:255 ZT 10.0.16.11:55294 SP
+19:01:2023.19:39:07:255 ZT 10.0.36.11:53 SS
+19:01:2023.19:39:18:107 ZT 10.0.16.11:41694 SP
+19:01:2023.19:39:18:107 ZT 10.0.36.11:53 SS
+19:01:2023.19:39:28:957 ZT 10.0.16.11:51326 SP
+19:01:2023.19:39:28:958 ZT 10.0.36.11:53 SS
+19:01:2023.19:39:38:574 EV conf-file-read pepino.txt
+19:01:2023.19:39:38:575 EV log-file-create logs/pepino.log
+19:01:2023.19:39:38:576 EV db-file-read dbs/pepino.db
+19:01:2023.19:39:50:673 EV conf-file-read pepinoSS1.txt
+19:01:2023.19:39:50:675 EV log-file-create logs/all.log
+19:01:2023.19:39:51:537 ZT 10.0.16.11:47760 SP
+19:01:2023.19:39:51:537 ZT 10.0.36.11:53 SS
+19:01:2023.19:40:16:927 QR 10.0.28.10:51256 59318,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:40:16:927 RE 10.0.28.10:51256 ['59318,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+19:01:2023.19:40:11:921 QR 10.0.8.20:39087 59318,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:40:16:927 RE 10.0.8.20:39087 ['59318,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+19:01:2023.19:43:14:657 EV conf-file-read pepino.txt
+19:01:2023.19:43:14:658 EV log-file-create logs/pepino.log
+19:01:2023.19:43:14:659 EV db-file-read dbs/pepino.db
+19:01:2023.19:27:21:596 ST 127.0.0.1 53 200 shy
+19:01:2023.19:27:21:596 EV conf-file-read configST.txt
+19:01:2023.19:27:21:598 EV db-file-read dbs/st.db
+19:01:2023.19:29:59:110 QR 10.0.28.10:40946 3789,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:29:59:110 RE 10.0.28.10:40946 ['3789,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:30:16:675 QR 10.0.28.10:36923 22125,Q,0,0,0,0;www.pepino.,A;
+19:01:2023.19:30:16:675 RE 10.0.28.10:36923 ['22125,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:40:11:921 QR 10.0.28.10:53329 59318,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:40:11:921 RE 10.0.28.10:53329 ['59318,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:43:31:816 EV conf-file-read configSR.txt
+19:01:2023.19:43:33:681 QR 10.0.8.20:53811 41205,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:46:06:964 EV conf-file-read configSR.txt
+19:01:2023.19:46:09:041 QR 10.0.8.20:54413 55813,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:53:50:157 EV conf-file-read configSR.txt
+19:01:2023.19:53:52:727 QR 10.0.28.10:41820 17522,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:53:52:727 RE 10.0.28.10:41820 ['17522,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.19:53:52:727 QR 10.0.8.20:59260 17522,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.19:53:52:728 RE 10.0.8.20:59260 ['17522,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.19:53:58:983 QR 10.0.8.20:35379 29214,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:54:56:874 EV conf-file-read configSR.txt
+19:01:2023.19:54:58:063 QR 10.0.8.20:49266 5459,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:55:24:951 EV conf-file-read configSR.txt
+19:01:2023.19:55:27:084 QR 10.0.8.20:38168 7788,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:55:47:789 EV conf-file-read configSR.txt
+19:01:2023.19:55:49:690 QR 10.0.8.20:52251 51461,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:56:11:113 QR 10.0.8.20:44353 10137,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:57:10:216 EV conf-file-read configSR.txt
+19:01:2023.19:57:11:033 QR 10.0.8.20:52292 62282,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:57:39:371 QR 10.0.28.10:43877 455,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:57:39:371 RE 10.0.28.10:43877 ['455,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+19:01:2023.19:57:39:370 QR 10.0.8.20:56526 455,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:57:39:371 RE 10.0.8.20:56526 ['455,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+19:01:2023.19:57:37:299 ST 127.0.0.1 53 200 shy
+19:01:2023.19:57:37:299 EV conf-file-read configST.txt
+19:01:2023.19:57:37:300 EV db-file-read dbs/st.db
+19:01:2023.19:57:39:370 QR 10.0.28.10:46467 455,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:57:39:370 RE 10.0.28.10:46467 ['455,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.19:57:43:870 QR 10.0.8.20:46192 62250,Q,0,0,0,0;pepino.,MX;
+19:01:2023.19:57:43:870 RE 10.0.8.20:46192 ['455,A,0,2,3,5;', 'pepino. MX mx1.pepino. 86400 10,pepino. MX mx2.pepino. 86400 20;', 'pepino. NS ns1.pepino. 86400,pepino. NS ns2.pepino. 86400,pepino. NS ns3.pepino. 86400;', 'ns1.pepino. A 10.0.18.10 86400,ns2.pepino. A 10.0.16.11 86400,ns3.pepino. A 10.0.7.10 86400,mx1.pepino. A 10.0.35.10 86400,mx2.pepino. A 10.0.34.11 86400;']
+19:01:2023.19:59:08:800 EV conf-file-read palhacopepino.txt
+19:01:2023.19:59:08:801 EV log-file-create logs/palhacopepino.log
+19:01:2023.19:59:08:802 EV db-file-read dbs/palhacopepino.db
+19:01:2023.19:59:17:799 QR 10.0.8.20:49204 13505,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:00:01:147 QR 10.0.28.10:59101 4512,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:00:01:147 RE 10.0.28.10:59101 ['4512,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+19:01:2023.20:00:01:147 QR 10.0.28.10:58859 4512,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:00:01:147 RE 10.0.28.10:58859 ['4512,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:00:01:146 QR 10.0.8.20:42578 4512,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:00:01:148 RE 10.0.8.20:42578 ['4512,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:05:30:477 EV conf-file-read configSR.txt
+19:01:2023.20:05:36:450 QR 10.0.28.10:42043 28730,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:05:36:451 RE 10.0.28.10:42043 ['28730,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+19:01:2023.20:05:36:452 QR 10.0.28.10:33041 28730,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:05:36:452 RE 10.0.28.10:33041 ['28730,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:05:31:447 QR 10.0.8.20:34202 28730,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:05:36:453 RE 10.0.8.20:34202 ['28730,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.19:59:59:044 ST 127.0.0.1 53 200 shy
+19:01:2023.19:59:59:044 EV conf-file-read configST.txt
+19:01:2023.19:59:59:045 EV db-file-read dbs/st.db
+19:01:2023.20:00:01:146 QR 10.0.28.10:51183 4512,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:00:01:146 RE 10.0.28.10:51183 ['4512,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.20:05:27:710 QR 10.0.28.10:35801 35946,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:05:27:710 RE 10.0.28.10:35801 ['35946,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.20:05:31:447 QR 10.0.28.10:54766 28730,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:05:31:448 RE 10.0.28.10:54766 ['28730,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.20:06:08:600 QR 10.0.28.10:60812 30811,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:06:08:600 RE 10.0.28.10:60812 ['30811,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+19:01:2023.20:06:08:602 QR 10.0.28.10:43552 30811,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:06:08:602 RE 10.0.28.10:43552 ['30811,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:06:03:597 QR 10.0.8.20:38543 30811,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:06:03:597 RE 10.0.8.20:38543 ['28730,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:06:08:603 RE 10.0.8.20:38543 ['30811,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:06:02:637 ST 127.0.0.1 53 200 shy
+19:01:2023.20:06:02:637 EV conf-file-read configST.txt
+19:01:2023.20:06:02:638 EV db-file-read dbs/st.db
+19:01:2023.20:06:03:598 QR 10.0.28.10:38143 30811,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:06:03:598 RE 10.0.28.10:38143 ['30811,A,1,0,3,3;', ';', 'pepino. NS ns1-pepino.pepino. 86400,pepino. NS ns2-pepino.pepino. 86400,pepino. NS ns3-pepino.pepino. 86400;', 'ns1-pepino.pepino. A 10.0.36.11 86400,ns2-pepino.pepino. A 10.0.16.11 86400,ns3-pepino.pepino. A 10.0.7.10 86400;']
+19:01:2023.20:06:42:407 EV conf-file-read configSR.txt
+19:01:2023.20:06:43:596 QR 10.0.8.20:60870 12904,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:16:27:996 EV conf-file-read configSR.txt
+19:01:2023.20:16:29:126 QR 10.0.8.20:49488 13583,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:34:24:815 EV conf-file-read palhacopepino.txt
+19:01:2023.20:34:24:816 EV log-file-create logs/palhacopepino.log
+19:01:2023.20:34:24:817 EV db-file-read dbs/palhacopepino.db
+19:01:2023.20:34:50:835 EV conf-file-read pepino.txt
+19:01:2023.20:34:50:836 EV log-file-create logs/pepino.log
+19:01:2023.20:34:50:837 EV db-file-read dbs/pepino.db
+19:01:2023.20:34:53:756 QR 10.0.28.10:41336 31725,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:34:53:756 RE 10.0.28.10:41336 ['31725,A,1,0,1,1;', ';', 'palhaco.pepino. NS sp.palhaco.pepino. 86400;', 'sp.palhaco.pepino. A 10.0.17.11 86400;']
+19:01:2023.20:34:53:757 QR 10.0.28.10:37216 31725,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:34:53:757 RE 10.0.28.10:37216 ['31725,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:34:53:756 QR 10.0.8.20:51916 31725,Q,0,0,0,0;palhaco.pepino.,MX;
+19:01:2023.20:34:53:758 RE 10.0.8.20:51916 ['31725,A,0,2,3,5;', 'palhaco.pepino. MX mx1.palhaco.pepino. 86400 10,palhaco.pepino. MX mx2.palhaco.pepino. 86400 20;', 'palhaco.pepino. NS ns1.palhaco.pepino. 86400,palhaco.pepino. NS ns2.palhaco.pepino. 86400,palhaco.pepino. NS ns3.palhaco.pepino. 86400;', 'ns1.palhaco.pepino. A 10.0.17.11 86400,ns2.palhaco.pepino. A 10.0.9.15 86400,ns3.palhaco.pepino. A 10.0.19.11 86400,mx1.palhaco.pepino. A 10.0.9.10 86400,mx2.palhaco.pepino. A 10.0.33.11 86400;']
+19:01:2023.20:41:56:040 QR 10.0.8.20:42897 38371,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:41:56:042 RE 10.0.8.20:42897 ['38371,A,0,1,1,1;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:42:40:685 QR 10.0.8.20:38196 63638,Q,0,0,0,0;10.7.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:42:40:687 RE 10.0.8.20:38196 ['63638,A,0,1,1,1;', '10.7.0.10.in-addr.reverse. PTR ns3.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:43:04:803 QR 10.0.8.20:47038 22201,Q,0,0,0,0;10.9.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:04:805 RE 10.0.8.20:47038 ['22201,A,0,1,1,1;', '10.9.0.10.in-addr.reverse. PTR mx1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:43:36:837 QR 10.0.8.20:55919 32149,Q,0,0,0,0;11.27.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:36:838 RE 10.0.8.20:55919 ['32149,A,1,0,1,1;', ';', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:40:45:307 ST 127.0.0.1 53 200 shy
+19:01:2023.20:40:45:307 EV conf-file-read configReverse.txt
+19:01:2023.20:40:45:308 EV db-file-read dbs/reverse.db
+19:01:2023.20:41:56:040 QR 10.0.28.10:45477 38371,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:41:56:040 RE 10.0.28.10:45477 ['38371,A,1,0,1,1;', ';', 'in-addr.reverse. NS ns1.in-addr.reverse. 86400;', 'ns1.in-addr.reverse. A 10.0.27.11 86400;']
+19:01:2023.20:42:40:685 QR 10.0.28.10:49086 63638,Q,0,0,0,0;10.7.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:42:40:685 RE 10.0.28.10:49086 ['63638,A,1,0,1,1;', ';', 'in-addr.reverse. NS ns1.in-addr.reverse. 86400;', 'ns1.in-addr.reverse. A 10.0.27.11 86400;']
+19:01:2023.20:43:04:803 QR 10.0.28.10:36944 22201,Q,0,0,0,0;10.9.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:04:804 RE 10.0.28.10:36944 ['22201,A,1,0,1,1;', ';', 'in-addr.reverse. NS ns1.in-addr.reverse. 86400;', 'ns1.in-addr.reverse. A 10.0.27.11 86400;']
+19:01:2023.20:43:36:837 QR 10.0.28.10:34530 32149,Q,0,0,0,0;11.27.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:36:837 RE 10.0.28.10:34530 ['32149,A,1,0,1,1;', ';', 'in-addr.reverse. NS ns1.in-addr.reverse. 86400;', 'ns1.in-addr.reverse. A 10.0.27.11 86400;']
+19:01:2023.20:41:17:488 ST 127.0.0.1 53 200 shy
+19:01:2023.20:41:17:488 EV conf-file-read configSubReverse.txt
+19:01:2023.20:41:17:489 EV db-file-read dbs/subreverse.db
+19:01:2023.20:41:56:040 QR 10.0.28.10:50262 38371,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:41:56:041 RE 10.0.28.10:50262 ['38371,A,1,0,1,1;', ';', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:42:40:686 QR 10.0.28.10:56447 63638,Q,0,0,0,0;10.7.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:42:40:686 RE 10.0.28.10:56447 ['63638,A,1,0,1,1;', ';', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:43:04:804 QR 10.0.28.10:50459 22201,Q,0,0,0,0;10.9.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:04:804 RE 10.0.28.10:50459 ['22201,A,1,0,1,1;', ';', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:43:36:838 QR 10.0.28.10:45197 32149,Q,0,0,0,0;11.27.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:36:838 RE 10.0.28.10:45197 ['32149,A,1,0,1,1;', ';', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:41:48:232 ST 127.0.0.1 53 200 shy
+19:01:2023.20:41:48:232 EV conf-file-read config10.txt
+19:01:2023.20:41:48:233 EV db-file-read dbs/subsubreverse.db
+19:01:2023.20:41:56:041 QR 10.0.28.10:37083 38371,Q,0,0,0,0;10.21.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:41:56:041 RE 10.0.28.10:37083 ['38371,A,0,1,1,1;', '10.21.0.10.in-addr.reverse. PTR ns1.guaxinim.86400 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:42:40:687 QR 10.0.28.10:51326 63638,Q,0,0,0,0;10.7.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:42:40:687 RE 10.0.28.10:51326 ['63638,A,0,1,1,1;', '10.7.0.10.in-addr.reverse. PTR ns3.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:43:04:804 QR 10.0.28.10:52658 22201,Q,0,0,0,0;10.9.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:04:804 RE 10.0.28.10:52658 ['22201,A,0,1,1,1;', '10.9.0.10.in-addr.reverse. PTR mx1.palhaco.pepino. 86400;', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:43:36:838 QR 10.0.28.10:52351 32149,Q,0,0,0,0;11.27.0.10.in-addr.reverse.,PTR;
+19:01:2023.20:43:36:838 RE 10.0.28.10:52351 ['32149,A,1,0,1,1;', ';', '10.in-addr.reverse. NS ns1.10.in-addr.reverse. 86400;', 'ns1.10.in-addr.reverse. A 10.0.20.11 86400;']
+19:01:2023.20:50:43:003 EV conf-file-read configSR.txt
+19:01:2023.20:50:58:441 QR 10.0.28.10:54633 40848,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.20:50:58:441 RE 10.0.28.10:54633 ['40848,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.20:50:58:440 QR 10.0.8.20:55366 40848,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.20:50:58:441 RE 10.0.8.20:55366 ['40848,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.20:51:27:660 EV conf-file-read guaxinimSS1.txt
+19:01:2023.20:51:27:661 EV log-file-create logs/all.log
+19:01:2023.20:51:28:517 ZT 10.0.22.10:44036 SP
+19:01:2023.20:51:28:518 ZT 10.0.21.10:53 SS
+19:01:2023.20:51:40:043 QR 10.0.8.20:38686 53384,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.20:51:40:043 RE 10.0.8.20:38686 ['40848,A,0,2,3,5;', 'guaxinim. MX mx1.guaxinim. 86400 10,guaxinim. MX mx2.guaxinim. 86400 20;', 'guaxinim. NS ns1.guaxinim. 86400,guaxinim. NS ns2.guaxinim. 86400,guaxinim. NS ns3.guaxinim. 86400;', 'ns1.guaxinim. A 10.0.21.10 86400,ns2.guaxinim. A 10.0.8.12 86400,ns3.guaxinim. A 10.0.22.10 86400,mx1.guaxinim. A 10.0.28.11 86400,mx2.guaxinim. A 10.0.30.10 86400;']
+19:01:2023.20:51:44:002 EV conf-file-read configSR.txt
+19:01:2023.20:51:45:160 QR 10.0.8.20:47703 33814,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.20:53:50:691 EV conf-file-read configSR.txt
+19:01:2023.20:53:52:447 QR 10.0.8.20:43042 33511,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.20:55:10:716 EV conf-file-read configSR.txt
+19:01:2023.20:55:11:826 QR 10.0.8.20:33975 15935,Q,0,0,0,0;guaxinim.,MX;
+19:01:2023.20:56:04:296 EV conf-file-read configSR.txt
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

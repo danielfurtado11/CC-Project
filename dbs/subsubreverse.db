@@ -1,0 +1,51 @@
+@ DEFAULT 10.in-addr.reverse.
+TTL DEFAULT 86400
+
+@ SOASP ns1.10.in-addr.reverse. TTL
+@ SOAADMIN dns.10.in-addr.reverse. TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+
+@ NS ns1.10.in-addr.reverse. TTL
+
+ns1 A 10.0.20.11 TTL
+
+10.21.0.@ PTR ns1.guaxinim.TTL
+12.8.0.@ PTR ns2.guaxinim. TTL
+10.22.0.@ PTR ns3.guaxinim. TTL
+12.6.0.@ PTR sp.grande.guaxinim TTL
+11.128.0.@ PTR mx1.guaxinim. TTL
+10.30.0.@ PTR mx2.guaxinim. TTL
+11.29.0.@ www.guaxinim. TTL
+12.28.0.@ PTR www.guaxinim. TTL
+10.29.0.@ PTR ftp.guaxinim. TTL
+
+12.6.0.@ PTR ns1.grande.guaxinim. TTL
+10.24.0.@ PTR ns2.grande.guaxinim. TTL
+10.37.0.@ PTR ns3.grande.guaxinim. TTL
+10.37.0.@ PTR mx1.grande.guaxinim. TTL
+10.38.0.@ PTR mx2.grande.guaxinim. TTL
+11.37.0.@ PTR www.grande.guaxinim. TTL
+10.18.0.@ PTR www.grande.guaxinim. TTL
+11.18.0.@ PTR ftp.grande.guaxinim. TTL
+
+10.18.0.@ PTR ns1.pepino. TTL
+11.16.0.@ PTR ns2.pepino. TTL
+10.7.0.@ PTR ns3.pepino. TTL
+11.17.0.@ PTR sp.palhaco.pepino TTL
+10.35.0.@ PTR mx1.pepino. TTL
+11.34.0.@ PTR mx2.pepino. TTL
+10.36.0.@ PTR www.pepino. TTL
+10.34.0.@ PTR www.pepino. TTL
+11.35.0.@ PTR ftp.pepino. TTL
+
+11.17.0.@ PTR ns1.palhaco.pepino. TTL
+15.9.0.@ PTR ns2.palhaco.pepino. TTL
+11.19.0.@ PTR ns3.palhaco.pepino. TTL
+10.9.0.@ PTR mx1.palhaco.pepino. TTL
+11.33.0.@ PTR mx2.palhaco.pepino. TTL
+10.32.0.@ PTR www.palhaco.pepino. TTL
+10.33.0.@ PTR www.palhaco.pepino. TTL
+10.31.0.@ PTR ftp.palhaco.pepino. TTL

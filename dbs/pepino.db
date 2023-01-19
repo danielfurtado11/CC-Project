@@ -1,0 +1,38 @@
+# DNS database file for domain pepino
+# It also includes a pointer to the primary server
+# of the smaller.example.com subdomain
+
+@ DEFAULT pepino.
+TTL DEFAULT 86400
+
+@ SOASP ns1.pepino. TTL
+@ SOAADMIN dns\.admin.pepino. TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 1600 TTL
+@ SOAEXPIRE 604800 TTL
+
+@ NS ns1.pepino. TTL
+@ NS ns2.pepino. TTL
+@ NS ns3.pepino. TTL
+
+palhaco.@ NS sp.palhaco.pepino.
+
+@ MX mx1.pepino. TTL 10
+@ MX mx2.pepino. TTL 20
+
+ns1 A 10.0.18.10 TTL
+ns2 A 10.0.16.11 TTL
+ns3 A 10.0.7.10 TTL
+sp.palhaco A 10.0.17.11 TTL
+mx1 A 10.0.35.10 TTL
+mx2 A 10.0.34.11 TTL
+www A 10.0.36.10 TTL 200
+www A 10.0.34.10 TTL 200
+ftp A 10.0.35.11 TTL
+
+sp CNAME ns1 TTL
+ss1 CNAME ns2 TTL
+ss2 CNAME ns3 TTL
+mail1 CNAME mx1 TTL
+mail2 CNAME mx2 TTL

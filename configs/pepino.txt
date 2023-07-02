@@ -1,8 +1,0 @@
-# Configuration file for primary server for pepino
-pepino DB dbs/pepino.db
-pepino SS 10.0.7.10
-pepino SS 10.0.16.11
-pepino LG logs/pepino.log
-pepino DD 127.0.0.10
-all LG logs/all.log
-root ST rootservers.db

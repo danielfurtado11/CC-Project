@@ -1,4 +1,0 @@
-# Configuration file for SR
-guaxinim. DD 10.0.21.10
-all LG logs/all.log
-root ST dbs/rootservers.db

@@ -1,7 +1,0 @@
-# Configuration file for secundary 2 server for pepino
-pepino SP 10.0.36.11
-pepino SS 10.0.16.11
-pepino DD 127.0.0.5
-pepino LG logs/pepinoSS2.log
-all LG logs/all.log
-root ST rootservers.db

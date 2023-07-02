@@ -1,8 +1,0 @@
-# Configuration file for primary server for palhaco.pepino
-palhaco.pepino DB dbs/palhacopepino.db
-palhaco.pepino SS 10.0.9.15
-palhaco.pepino SS 10.0.19.11
-palhaco.pepino DD 127.0.0.1
-palhaco.pepino LG logs/palhacopepino.log
-all LG logs/all.log
-root ST rootservers.db

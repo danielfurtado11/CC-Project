@@ -1,3 +1,0 @@
-# Configuration file for ST
-root DB dbs/st.db
-all LG logs/all.log

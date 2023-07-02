@@ -1,3 +1,0 @@
-# Configuration file for ST
-reverse DB dbs/subreverse.db
-all LG logs/all.log

@@ -1,7 +1,0 @@
-# Configuration file for primary server for grande.guaxinim
-grande.guaxinim SP 10.0.6.12
-grande.guaxinim SS 10.0.24.10
-grande.guaxinim LG logs/grandeguaxinimSS2.log
-grande.guaxinim DD 127.0.0.7
-all LG logs/all.log
-root ST rootservers.db
